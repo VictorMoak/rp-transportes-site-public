@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://rptransportes.vercel.app/">🌐 View live site</a>
+  <a href="https://www.rp1transportes.com.br/">🌐 View live site</a>
 </p>
 
 > **📌 Public repository for demonstration only**  
@@ -56,7 +56,7 @@
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/VictorMoak/rp-transportes-site-public.git
 cd rp-transportes-site
 
 # Install dependencies
@@ -90,7 +90,7 @@ src/
 
 ## 🔗 Links
 
-- **Live site:** [https://rptransportes.vercel.app/](https://rptransportes.vercel.app/)
+- **Live site:** https://www.rp1transportes.com.br/
 - **Client:** RP Transportes
 
 ---
