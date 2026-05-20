@@ -56,7 +56,7 @@ O **RP Transportes** é um site institucional criado para divulgar os serviços 
 
 ```bash
 # Clonar o repositório
-git clone <url-do-repositorio>
+git clone https://github.com/VictorMoak/rp-transportes-site-public.git
 cd rp-transportes-site
 
 # Instalar dependências
@@ -90,7 +90,7 @@ src/
 
 ## 🔗 Links
 
-- **Site publicado:** [https://rptransportes.vercel.app/](https://rptransportes.vercel.app/)
+- **Site publicado:** https://www.rp1transportes.com.br/
 - **Cliente:** RP Transportes
 
 ---
